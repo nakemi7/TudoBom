@@ -1,5 +1,5 @@
 :root {
-    --cor-do-header: #EEC759; 
+    --cor-do-header: #97820b; 
 }
 
 body {
@@ -10,7 +10,9 @@ header div {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
     align-content: center;
+    flex-direction: row;
 }
 
 img {
