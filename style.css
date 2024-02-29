@@ -10,9 +10,7 @@ header div {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
     align-content: center;
-    flex-direction: row;
 }
 
 img {
