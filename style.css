@@ -6,7 +6,7 @@ body {
     background-color: var(--cor-de-fundo);
 }
 
-header {
+header div {
     display: flex;
     align-items: center;
     justify-content: center;
