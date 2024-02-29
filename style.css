@@ -3,16 +3,14 @@
 }
 
 body {
-    background-color: var(--cor-de-fundo);
+    background-color: var(--cor-do-header);
 }
 
 header div {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
     align-content: center;
-    flex-direction: row;
 }
 
 img {
