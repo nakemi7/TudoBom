@@ -13,11 +13,6 @@ header div {
     justify-content: center;
     align-content: center;
     flex-direction: row;
-    border-bottom: 2px solid black;
-}
-
-header hr {
-    color: black;
 }
 
 .titulo-site {
@@ -33,6 +28,9 @@ header hr {
 .sobre-nos{
     display: flex;
     background-color: var(--cor-do-site);
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 2rem
 }
 
 .sobre-nos p {
