@@ -30,7 +30,9 @@ header div {
     background-color: var(--cor-do-site);
     border: 1px solid black;
     border-radius: 8px;
-    padding: 2rem
+    width: 90%;
+    padding: 2rem;
+    margin: 20px auto;
 }
 
 .sobre-nos p {
