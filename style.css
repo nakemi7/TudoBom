@@ -29,7 +29,7 @@ header div {
     display: flex;
     background-color: var(--cor-do-site);
     border: 1px solid black;
-    border-radius: 4px;
+    border-radius: 8px;
     padding: 2rem
 }
 
