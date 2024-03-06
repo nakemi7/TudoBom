@@ -22,6 +22,10 @@ header div {
     margin-right: 75px;
 }
 
+.sobre-nos{
+    display: flex;
+}
+
 .sobre-nos p {
     margin-left: 20px;
 }
