@@ -10,6 +10,10 @@ body {
     background-color: var(--cor-do-site);
 }
 
+header {
+    background-color: var(--cor-do-header);
+}
+
 header div {
     display: flex;
     align-items: center;
