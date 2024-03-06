@@ -15,10 +15,10 @@ header div {
     margin: 0 20px;
 }
 
-.titulo {
+.titulo-site {
     font-size: 4rem;
 }
 
-img {
-
+img-titulo {
+    margin-right: 40px
 }
