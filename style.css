@@ -1,10 +1,13 @@
 :root {
     --cor-do-header: #EEC759; 
     --cor-do-site: #B4B2AF;
+    --cor-secoes: #F8D87F;
 }
 
 body {
-    background-color: var(--cor-do-header);
+    margin: 0px;
+    padding: 0px;
+    background-color: var(--cor-do-site);
 }
 
 header div {
@@ -27,7 +30,7 @@ header div {
 
 .sobre-nos{
     display: flex;
-    background-color: var(--cor-do-site);
+    background-color: var(--cor-secoes);
     border: 1px solid black;
     border-radius: 8px;
     width: 90%;
