@@ -12,7 +12,7 @@ header div {
     justify-content: center;
     align-content: center;
     flex-direction: row;
-    margin: 0 auto;
+    margin: 0 20px;
 }
 
 .titulo {
