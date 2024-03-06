@@ -12,13 +12,12 @@ header div {
     justify-content: center;
     align-content: center;
     flex-direction: row;
-    margin: 0 20px;
 }
 
 .titulo-site {
     font-size: 4rem;
 }
 
-img-titulo {
+.img-titulo {
     margin-right: 40px
 }
