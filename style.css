@@ -31,6 +31,7 @@ header hr {
 
 .sobre-nos{
     display: flex;
+    background-color: var(--cor-do-site);
 }
 
 .sobre-nos p {
