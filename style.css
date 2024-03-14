@@ -66,6 +66,6 @@ header div {
 }
 
 .devs {
-    display: flex
+    display: flex;
     text-align: center;
 }
