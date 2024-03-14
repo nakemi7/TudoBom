@@ -74,4 +74,5 @@ header div {
     display: flex;
     text-align: center;
     margin: 0px;
+    justify-content: space-around;
 }
