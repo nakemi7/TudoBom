@@ -66,6 +66,6 @@ header div {
 }
 
 .devs {
-    justify-content: space-around;
+    display: flex
     text-align: center;
 }
