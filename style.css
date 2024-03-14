@@ -52,8 +52,13 @@ header div {
     margin-left: 10px;
 }
 
-.sobre-nos p {
+.descricao p {
     margin-left: 20px;
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.devs p {
     font-size: 16px;
     font-family: "Montserrat", sans-serif;
 }
