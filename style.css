@@ -33,14 +33,17 @@ header div {
     height: 4%;
 }
 
-.sobre-nos .descricao{
-    display: flex;
+.sobre-nos{
     background-color: var(--cor-secoes);
     border: 1px solid black;
     border-radius: 8px;
     width: 90%;
     padding: 2rem;
     margin: 20px auto;
+}
+
+.descricao{
+    display: flex;
 }
 
 .sobre-nos p {
