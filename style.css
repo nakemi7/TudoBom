@@ -39,7 +39,7 @@ header div {
     background-color: var(--cor-secoes);
     border: 1px solid black;
     border-radius: 8px;
-    width: 90%;
+    width: 75%;
     padding: 2rem;
     margin: 20px auto;
 }
