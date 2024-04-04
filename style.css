@@ -71,8 +71,8 @@ header div {
 }
 
 .devs {
-    display: flex;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
     text-align: center;
     margin: 0px;
-    justify-content: space-around;
 }
