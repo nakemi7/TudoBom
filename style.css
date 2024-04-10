@@ -83,6 +83,6 @@ header div {
 }
 
 footer{
-    background-color: var(--cor-do-site);
+    background-color: var(--cor-do-header);
     text-align: center;
 }
