@@ -91,3 +91,8 @@ footer {
 footer p {
     margin-bottom: 0px;
 }
+
+footer img{
+    width: 15%;
+    height: 15%;
+}
