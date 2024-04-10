@@ -33,10 +33,10 @@ header div {
     height: 4%;
 }
 
-.borda-header {
-    border-bottom: black 1px;
-    text-align: center;
-    width: 75%;
+.link-list {
+    display: flex;
+    justify-content: space-around;
+    
 }
 
 .sobre-nos {
