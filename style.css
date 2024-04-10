@@ -13,9 +13,6 @@ body {
 header {
     background-color: var(--cor-do-header);
     padding: 5px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 header div {
@@ -41,7 +38,7 @@ header div {
     display: flex;
     font-size: 26px;
     font-family: "Montserrat", sans-serif;
-
+    align-items: center;
 }
 
 .link-list a {
