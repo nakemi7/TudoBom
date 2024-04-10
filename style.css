@@ -39,8 +39,9 @@ header div {
     font-size: 26px;
     font-family: "Montserrat", sans-serif;
     margin: 0 auto;
-    padding: 5px 0;
+    padding: 10px 0;
     align-items: center;
+    border-top: solid black 1px;
 }
 
 .link-list a {
