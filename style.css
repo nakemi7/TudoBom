@@ -21,6 +21,7 @@ header div {
     justify-content: center;
     align-content: center;
     flex-direction: row;
+    padding-bottom: 10px;
 }
 
 .titulo-site {
