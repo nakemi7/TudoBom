@@ -31,7 +31,7 @@ header div {
     margin-right: 25px;
     width: 4%;
     height: 4%;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 }
 
 .link-list {
@@ -50,6 +50,11 @@ header div {
     color: black;
     margin: 0 3rem;
 
+}
+
+.link-list a:hover {
+    text-decoration: underline;
+    font-size: 30px;
 }
 
 .sobre-nos {
