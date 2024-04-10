@@ -13,6 +13,7 @@ body {
 header {
     background-color: var(--cor-do-header);
     padding: 5px;
+    text-align: center;
 }
 
 header div {
