@@ -82,7 +82,11 @@ header div {
     height: 200px;
 }
 
-footer{
+footer {
     background-color: var(--cor-do-header);
     text-align: center;
+}
+
+footer p {
+    margin-bottom: 0px;
 }
