@@ -34,14 +34,18 @@ header div {
 }
 
 .link-list {
+    width: 75%;
     display: flex;
     font-size: 26px;
+    font-family: "Montserrat", sans-serif;
+
 }
 
 .link-list a {
     text-decoration: none;
     color: black;
-    margin: 0 15px;
+    margin: 0 3rem;
+
 }
 
 .sobre-nos {
