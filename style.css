@@ -21,7 +21,6 @@ header div {
     justify-content: center;
     align-content: center;
     flex-direction: row;
-    padding-bottom: 10px;
 }
 
 .titulo-site {
@@ -32,6 +31,7 @@ header div {
     margin-right: 25px;
     width: 4%;
     height: 4%;
+    padding-bottom: 5px;
 }
 
 .link-list {
