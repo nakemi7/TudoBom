@@ -36,7 +36,11 @@ header div {
 .link-list {
     display: flex;
     justify-content: space-around;
-    
+    font-size: 26px;
+}
+
+.link-list a {
+    text-decoration: none;
 }
 
 .sobre-nos {
