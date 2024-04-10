@@ -33,6 +33,12 @@ header div {
     height: 4%;
 }
 
+.borda-header {
+    border-bottom: black 1px;
+    text-align: center;
+    width: 75%;
+}
+
 .sobre-nos {
     display: flex;
     flex-direction: column;
