@@ -131,9 +131,11 @@ footer img{
 .titulo-filme {
     font-size: 28px;
     font-family: "Montserrat", sans-serif;
+    font-weight: 400;
 }
 
 .em-alta h2{
     font-family: "Montserrat", sans-serif;
     font-size: 32px;
+    font-weight: 400;
 }
