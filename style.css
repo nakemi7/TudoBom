@@ -127,3 +127,13 @@ footer img{
     text-align: center;
     margin: 0px;
 }
+
+.titulo-filme {
+    font-size: 28px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.em-alta h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 32px;
+}
