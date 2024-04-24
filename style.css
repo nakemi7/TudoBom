@@ -136,6 +136,12 @@ footer img{
     font-weight: 400;
 }
 
+
+.titulo-filme a {
+    text-decoration: none;
+    color: black;
+}
+
 .em-alta h2{
     font-family: "Montserrat", sans-serif;
     font-size: 32px;
