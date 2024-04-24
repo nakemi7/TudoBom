@@ -142,5 +142,10 @@ footer img{
 
 .surpreenda-se {
     text-align: center;
-    border-radius: 10px;
+}
+
+.surpreenda-se button {
+    width: 25rem;
+    height: 3rem;
+    border-radius: 20px;
 }
