@@ -158,6 +158,6 @@ footer img{
 }
 
 .surpreenda-se button:hover {
+    transition: background-color 0.5s ease;
     background-color: #aa8520;
-    font-size: 32px;
 }
