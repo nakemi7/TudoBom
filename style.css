@@ -142,6 +142,7 @@ footer img{
 
 .surpreenda-se {
     text-align: center;
+    margin: 3rem;
 }
 
 .surpreenda-se button {
@@ -154,4 +155,9 @@ footer img{
     font-size: 28px;     
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
+}
+
+.surpreenda-se button:hover {
+    background-color: #aa8520;
+    font-size: 32px;
 }
