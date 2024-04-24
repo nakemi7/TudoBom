@@ -159,7 +159,7 @@ footer img{
     height: 4rem;
     border-radius: 25px;
     box-shadow: 2px 2px 2px gray;
-    background-color: #f3ce6a;
+    background-color: var(--cor-do-header);
     color: black;
     font-size: 28px;     
     font-family: "Montserrat", sans-serif;
@@ -168,5 +168,5 @@ footer img{
 }
 
 .surpreenda-se button:hover {
-    background: var(--cor-do-header);
+    background: #ffc629
 }
