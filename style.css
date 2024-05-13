@@ -105,6 +105,7 @@ header div {
 .img-dev {
     width: 60%;
     height: 200px;
+    border-radius: 20px;
 }
 
 footer {
